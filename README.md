@@ -23,4 +23,6 @@ python -m spacy download en_core_web_sm
 
 # Hardware
 
-All calculations were performed on an RTX3070Ti 
+All calculations were performed on an RTX3070Ti.
+
+# Additional info coming here
