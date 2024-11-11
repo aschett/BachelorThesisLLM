@@ -1,0 +1,11 @@
+# Ignore the datasets
+/dataset/
+/.env
+/finetuned_models/
+/finetuning_scripts/standard_evaluation.ipynb
+/generated_outputs/*.csv
+/dataset_splits/
+/finetuning_scripts/
+/standard_finetuned_models/
+/data_preperation_scripts/analyze_quotes_chatgpt.py
+/predictions_csv
