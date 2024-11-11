@@ -11,3 +11,12 @@ This repository contains the code and data for my bachelor thesis project, which
 ## Datasets
 
 The dataset used in this project can be found and downloaded [here](https://www.cs.cornell.edu/~cristian/memorability.html).
+
+
+# Requirements
+
+You need to install the following requirements found in the [requirements.txt](./requirements.txt)
+
+# Hardware
+
+All calculations were performed on an RTX3070Ti 
