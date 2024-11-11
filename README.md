@@ -16,6 +16,10 @@ The dataset used in this project can be found and downloaded [here](https://www.
 # Requirements
 
 You need to install the following requirements found in the [requirements.txt](./requirements.txt)
+Additionally you need to run to download a spacy dictionary
+```shell
+python -m spacy download en_core_web_sm
+```
 
 # Hardware
 
