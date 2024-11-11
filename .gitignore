@@ -9,3 +9,4 @@
 /standard_finetuned_models/
 /data_preperation_scripts/analyze_quotes_chatgpt.py
 /predictions_csv
+.gitignore
